@@ -19,7 +19,7 @@ Love Developing ...
 
 ---
 ## Visitor Count  
-![Visitor Count](https://visitcount.itsvg.in/api?id=anshuman-rai-27&icon=0&color=0)  
+[![Visitor Count](https://visitcount.itsvg.in/api?id=anshuman-rai-27&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
