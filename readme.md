@@ -17,6 +17,7 @@ Love Developing ...
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=anshuman-rai-27&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+[![An image of @anshumanrai27's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anshumanrai27)](https://holopin.io/@anshumanrai27)
 ---
 ## Visitor Count  
 [![Visitor Count](https://visitcount.itsvg.in/api?id=anshuman-rai-27&icon=0&color=0)](https://visitcount.itsvg.in)
