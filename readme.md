@@ -1,5 +1,5 @@
 # 💫 About Me:
-i'm love developing
+Love Developing ...
 
 
 ## 🌐 Socials:
